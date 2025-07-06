@@ -137,5 +137,5 @@ cython_debug/
 # VS Code settings
 .vscode/
 
-BankDL
+myenv/
 logs/
